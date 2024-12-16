@@ -1,5 +1,5 @@
 package org.mahata
 
 class Launcher {
-    fun launchRocket() {}
+    fun launchRocket(rocket: Rocket, launchCode: LaunchCode) {}
 }
